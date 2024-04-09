@@ -1,1 +1,3 @@
-# This is a simple base for an NodeJS API
+# Simple API
+
+This is a simple base for an NodeJS API
